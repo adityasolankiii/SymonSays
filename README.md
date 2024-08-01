@@ -19,4 +19,4 @@ JavaScript: Logic and functionality for the game mechanics.
 # Getting Started
 
 Clone the repository:
-bash: gh repo clone adityasolankiii/SymonSays
+bash: git clone https://github.com/adityasolankiii/SymonSays
