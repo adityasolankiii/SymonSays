@@ -4,7 +4,7 @@ This repository contains a simple Simon Says game implemented using HTML, CSS, a
 
 # How to Play
 
-1.Press the "Start" button to begin the game.
+1.Press any key on your keyboard to begin the game.
 2.Watch the sequence of colors.
 3.Repeat the sequence by clicking the corresponding buttons.
 4.The game will continue to add more steps to the sequence each round.
